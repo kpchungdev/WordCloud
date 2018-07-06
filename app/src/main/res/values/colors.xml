@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#303f9f</color>
+    <color name="colorPrimaryDark">#001970</color>
+    <color name="colorPrimaryLight">#666ad1</color>
+    <color name="colorAccent">#ff9800</color>
+    <color name="colorHintText">#7dffffff</color>
+    <color name="colorBlock">#33727070</color>
+    <color name="colorDefaultText">#000000</color>
+    <color name="exampleRed">#e10909</color>
+    <color name="exampleYellow">#b4b05f</color>
+    <color name="exampleGreen">#10da1a</color>
+    <color name="exampleTeal">#15e1c5</color>
+    <color name="exampleViolet">#4d0b94</color>
+    <color name="exampleBlue">#16659a</color>
+
+    <array name="wordCloudExampleColors">
+        <item>@color/colorAccent</item>
+        <item>@android:color/holo_purple</item>
+        <item>@color/colorPrimary</item>
+        <item>@color/exampleRed</item>
+        <item>@android:color/holo_red_dark</item>
+        <item>@color/exampleYellow</item>
+        <item>@color/exampleGreen</item>
+        <item>@color/exampleTeal</item>
+        <item>@color/exampleViolet</item>
+        <item>@color/exampleBlue</item>
+        <item>@android:color/holo_green_dark</item>
+        <item>@android:color/holo_blue_bright</item>
+        <item>@android:color/holo_orange_dark</item>
+    </array>
+</resources>

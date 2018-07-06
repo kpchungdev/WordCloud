@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="english_joiner_0">!</string>
+    <string name="english_joiner_1">"</string>
+    <string name="english_joiner_2">#</string>
+    <string name="english_joiner_3">$</string>
+    <string name="english_joiner_4">%</string>
+    <string name="english_joiner_5">(</string>
+    <string name="english_joiner_6">)</string>
+    <string name="english_joiner_7">*</string>
+    <string name="english_joiner_8">+</string>
+    <string name="english_joiner_9">,</string>
+    <string name="english_joiner_10">-</string>
+    <string name="english_joiner_11">.</string>
+    <string name="english_joiner_12">/</string>
+    <string name="english_joiner_13">\</string>
+    <string name="english_joiner_14">[</string>
+    <string name="english_joiner_15">]</string>
+    <string name="english_joiner_16">^</string>
+    <string name="english_joiner_17">_</string>
+    <string name="english_joiner_18">`</string>
+    <string name="english_joiner_19">:</string>
+    <string name="english_joiner_20">;</string>
+    <string name="english_joiner_21">=</string>
+    <string name="english_joiner_22">~</string>
+    <string name="english_joiner_23">{</string>
+    <string name="english_joiner_24">}</string>
+    <string name="english_joiner_25">&lt;</string>
+    <string name="english_joiner_26">&gt;</string>
+    <string name="english_joiner_27">&amp;</string>
+    <string name="english_joiner_28">\?</string>
+    <string name="english_joiner_29">\@</string>
+
+    <string-array name="english_joiners">
+        <item>@string/english_joiner_0</item>
+        <item>@string/english_joiner_1</item>
+        <item>@string/english_joiner_2</item>
+        <item>@string/english_joiner_3</item>
+        <item>@string/english_joiner_4</item>
+        <item>@string/english_joiner_5</item>
+        <item>@string/english_joiner_6</item>
+        <item>@string/english_joiner_7</item>
+        <item>@string/english_joiner_8</item>
+        <item>@string/english_joiner_9</item>
+        <item>@string/english_joiner_10</item>
+        <item>@string/english_joiner_11</item>
+        <item>@string/english_joiner_12</item>
+        <item>@string/english_joiner_13</item>
+        <item>@string/english_joiner_14</item>
+        <item>@string/english_joiner_15</item>
+        <item>@string/english_joiner_16</item>
+        <item>@string/english_joiner_17</item>
+        <item>@string/english_joiner_18</item>
+        <item>@string/english_joiner_19</item>
+        <item>@string/english_joiner_20</item>
+        <item>@string/english_joiner_21</item>
+        <item>@string/english_joiner_22</item>
+        <item>@string/english_joiner_23</item>
+        <item>@string/english_joiner_24</item>
+        <item>@string/english_joiner_25</item>
+        <item>@string/english_joiner_26</item>
+        <item>@string/english_joiner_27</item>
+        <item>@string/english_joiner_28</item>
+        <item>@string/english_joiner_29</item>
+    </string-array>
+
+</resources>

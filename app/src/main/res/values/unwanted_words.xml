@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="unwanted_word_1">stupid</string>
+
+    <string-array name="unwanted_words_example">
+        <item>@string/unwanted_word_1</item>
+    </string-array>
+
+</resources>

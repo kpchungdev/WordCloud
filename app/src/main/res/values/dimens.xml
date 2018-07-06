@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="wordcloud_reveal_text_feature">210dp</dimen>
+    <dimen name="wordcloud_reveal_other_feature">280dp</dimen>
+
+</resources>

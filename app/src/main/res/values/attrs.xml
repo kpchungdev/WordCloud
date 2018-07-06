@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="WordCloudView">
+        <attr name="allowedSkips" format="integer"/>
+        <attr name="words" format="string"/>
+        <attr name="textSizeExpression" format="string"/>
+        <attr name="minimumTextSize" format="dimension"/>
+        <attr name="wordsFont" format="reference"/>
+        <attr name="joiners" format="reference"/>
+        <attr name="unwanted_words" format="reference"/>
+
+        <attr name="colors" format="reference"/>
+        <attr name="defaultColor" format="reference"/>
+
+        <attr name="loadInit" format="boolean"/>
+        <attr name="loadingShowWords" format="boolean"/>
+        <attr name="circleRadius" format="dimension"/>
+
+        <attr name="wordPadding" format="dimension"/>
+    </declare-styleable>
+</resources>
